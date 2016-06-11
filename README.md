@@ -1,1 +1,1 @@
-This C# program tests various sorting algorithms for strings and numbers, counting the number of swaps made, the number of comparisons made, the number of elements sorted, and the time elapsed.
+This C# program tests various sorting algorithms for strings and numbers, counting the number of swaps made, the number of comparisons made, the number of elements sorted, and the time elapsed. It is meant to be run in Visual Studio. Code and designer files are included.
